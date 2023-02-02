@@ -8,7 +8,7 @@ public class C04_DoWhile {
         // tamkare ise true ,değilse false yazdırınız.
         // Ornek : input : 16, output: 4
 
-        int sayı=16;
+        int sayı=15;
         int baslangıc=1;
         int bayrak=0;
 
